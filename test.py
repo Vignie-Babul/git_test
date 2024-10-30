@@ -2,4 +2,5 @@ from abc import ABC
 
 
 class CLITest(ABC):
-	pass
+	def __init__(self) -> None:
+		pass
