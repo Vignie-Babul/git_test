@@ -4,3 +4,6 @@ class CLI(object):
 
 	def _update(self):
 		pass
+
+	def display(self):
+		pass
